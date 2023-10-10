@@ -1,0 +1,13 @@
+body{
+}
+
+.div{    
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    width: 500px;
+    text-align: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
